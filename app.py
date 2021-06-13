@@ -55,18 +55,3 @@ def output(filename):
 
 
 
-
-
-
-
-
-
-
-    #<form action="{{ url_for('upload_files') }}" class="dropzone">
-    #</form>
-    #<hr>
-    #<div>
-      #<img src="{{ url_for('upload', filename=file) }}" style="width: 64px">
-    #</div>
-    
-    #<script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.1/min/dropzone.min.js"></script>
